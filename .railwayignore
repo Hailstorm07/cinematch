@@ -1,0 +1,9 @@
+# Railway ignore file
+client/
+*.md
+.git/
+.env.example
+cinematch.db
+node_modules/
+.DS_Store
+*.log
